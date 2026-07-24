@@ -1,0 +1,11 @@
+{
+  "version": "2026.07.25",
+  "baseUrl": "https://noscope-assets.pages.dev",
+  "Players": {
+    "apex": "Players/apEX.png",
+    "zywoo": "Players/ZywOo.png"
+  },
+  "Teams": {
+    "vitality": "Teams/Vitality.png"
+  }
+}
