@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.07.25.0233",
+    "version":  "2026.07.26.1255",
     "baseUrl":  "https://noscope-assets.pages.dev",
     "Players":  {
                     "_aim":  "Players/_aim.png",
@@ -1509,5 +1509,52 @@
                         "thunderpick world championship":  "Tournaments/Thunderpick%20World%20Championship.png",
                         "urban riga open":  "Tournaments/Urban%20Riga%20Open.png",
                         "xse pro league":  "Tournaments/XSE%20Pro%20League.png"
-                    }
+                    },
+    "Databases":  [
+                      {
+                          "id":  "database",
+                          "name":  "database",
+                          "fileName":  "database.emdb",
+                          "path":  "Databases/database.emdb",
+                          "url":  "https://noscope-assets.pages.dev/Databases/database.emdb",
+                          "size":  596537,
+                          "updated":  "2026-07-24T02:18:30Z"
+                      },
+                      {
+                          "id":  "luccaneta_s_global_updated",
+                          "name":  "luccaneta_s_GLOBAL_UPDATED",
+                          "fileName":  "luccaneta_s_GLOBAL_UPDATED.emdb",
+                          "path":  "Databases/luccaneta_s_GLOBAL_UPDATED.emdb",
+                          "url":  "https://noscope-assets.pages.dev/Databases/luccaneta_s_GLOBAL_UPDATED.emdb",
+                          "size":  558250,
+                          "updated":  "2026-07-23T23:20:52Z"
+                      },
+                      {
+                          "id":  "pzy_s_-_noscope_mega_db",
+                          "name":  "pzy_s_-_NoScope_MEGA_DB",
+                          "fileName":  "pzy_s_-_NoScope_MEGA_DB.emdb",
+                          "path":  "Databases/pzy_s_-_NoScope_MEGA_DB.emdb",
+                          "url":  "https://noscope-assets.pages.dev/Databases/pzy_s_-_NoScope_MEGA_DB.emdb",
+                          "size":  562588,
+                          "updated":  "2026-07-26T09:43:46Z"
+                      },
+                      {
+                          "id":  "roys_emdb__personnal_edition_",
+                          "name":  "Roys_EMDB__Personnal_Edition_",
+                          "fileName":  "Roys_EMDB__Personnal_Edition_.emdb",
+                          "path":  "Databases/Roys_EMDB__Personnal_Edition_.emdb",
+                          "url":  "https://noscope-assets.pages.dev/Databases/Roys_EMDB__Personnal_Edition_.emdb",
+                          "size":  280805,
+                          "updated":  "2026-07-17T11:21:07Z"
+                      },
+                      {
+                          "id":  "world_updated",
+                          "name":  "World_Updated",
+                          "fileName":  "World_Updated.emdb",
+                          "path":  "Databases/World_Updated.emdb",
+                          "url":  "https://noscope-assets.pages.dev/Databases/World_Updated.emdb",
+                          "size":  595575,
+                          "updated":  "2026-07-24T01:39:04Z"
+                      }
+                  ]
 }
